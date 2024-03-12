@@ -5,7 +5,7 @@ Resources and projects from AWS Cloud Engineer Nano Degree
 
 ### Data Modeling
 
-[Data modeling with Apache Cassandra]('1 Data Modelling/project/data_modelling_project.ipynb')
+[Data modeling with Apache Cassandra]
 
 In this project,
 
@@ -14,7 +14,7 @@ In this project,
 
 ### Cloud Data Warehouses
 
-[Data warehousing with AWS Redshift](2 Cloud Data Warehouses/project/README.md)
+[Data warehousing with AWS Redshift]
 
 In this project,
 
@@ -23,7 +23,7 @@ In this project,
 
 ### Spark and Data Lakes
 
-[STEDI Human Balance Analytics](3 Spark and Data Lakes/project/README.md)
+[STEDI Human Balance Analytics]
 
 In this project,
 
@@ -32,7 +32,7 @@ In this project,
 
 ### Automate Data Pipelines
 
-[Data Pipelines with Airflow](4 Automate Data Pipelines/project/README.md)
+[Data Pipelines with Airflow]
 
 In this project,
 
