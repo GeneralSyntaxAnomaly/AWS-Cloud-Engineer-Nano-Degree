@@ -5,16 +5,12 @@ Resources and projects from AWS Cloud Engineer Nano Degree
 
 ### Data Modeling
 
-[Data modeling with Apache Cassandra]
-
 In this project,
 
 - Apply concepts learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python.
 - Model the data by creating tables in Apache Cassandra to run queries effectively.
 
 ### Cloud Data Warehouses
-
-[Data warehousing with AWS Redshift]
 
 In this project,
 
@@ -23,16 +19,12 @@ In this project,
 
 ### Spark and Data Lakes
 
-[STEDI Human Balance Analytics]
-
 In this project,
 
 - Utilize Spark and AWS Glue to process data from multiple sources, categorize the data, and curate it for future querying and multiple purposes.
 - Build a data lakehouse solution for sensor data that trains a machine learning model.
 
 ### Automate Data Pipelines
-
-[Data Pipelines with Airflow]
 
 In this project,
 
