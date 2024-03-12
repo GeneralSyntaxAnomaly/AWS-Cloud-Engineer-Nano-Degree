@@ -1,5 +1,5 @@
 # Data-Engineering-With-AWS
-Resources and projects from Udacity Data Engineering with AWS nano degree programme
+Resources and projects from AWS Cloud Engineer Nana Degree
 
 ## Projects
 
@@ -10,7 +10,7 @@ Resources and projects from Udacity Data Engineering with AWS nano degree progra
 In this project,
 
 - Apply concepts learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python.
-- Model the data by creating tables in Apache Cassandra to run queries.
+- Model the data by creating tables in Apache Cassandra to run queries effectively.
 
 ### Cloud Data Warehouses
 
@@ -18,8 +18,8 @@ In this project,
 
 In this project,
 
-- Apply concepts on data warehouses and AWS to build an ETL pipeline for a database hosted on Redshift.
-- To complete the project, need to load data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables.
+- Apply concepts of data warehousing and AWS to build an ETL pipeline for a database hosted on Redshift.
+- Load data from S3 to staging tables on Redshift and execute SQL statements to create analytics tables from these staging tables.
 
 ### Spark and Data Lakes
 
@@ -27,7 +27,7 @@ In this project,
 
 In this project,
 
-- Use Spark and AWS Glue allow you to process data from multiple sources, categorize the data, and curate it to be queried in the future for multiple purposes.
+- Utilize Spark and AWS Glue to process data from multiple sources, categorize the data, and curate it for future querying and multiple purposes.
 - Build a data lakehouse solution for sensor data that trains a machine learning model.
 
 ### Automate Data Pipelines
@@ -36,5 +36,5 @@ In this project,
 
 In this project,
 
-- Using Airflow to create high grade data pipelines that are dynamic and built from reusable tasks, can be monitored, and allow easy backfills.
+- Use Airflow to create high-grade data pipelines that are dynamic, built from reusable tasks, monitored, and allow for easy backfills.
 - Create custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data as the final step.
