@@ -1,5 +1,5 @@
 # Data-Engineering-With-AWS
-Resources and projects from AWS Cloud Engineer Nana Degree
+Resources and projects from AWS Cloud Engineer Nano Degree
 
 ## Projects
 
