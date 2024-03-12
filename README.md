@@ -3,7 +3,7 @@ Resources and projects from AWS Cloud Engineer Nano Degree
 
 ## Projects
 
-### Data Modelling
+### Data Modeling
 
 [Data modeling with Apache Cassandra](1_Data_Modelling/project/data_modelling_project.ipynb)
 
