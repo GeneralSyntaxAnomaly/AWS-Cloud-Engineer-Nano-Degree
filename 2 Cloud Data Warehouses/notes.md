@@ -82,7 +82,7 @@ Extract the data from the source systems used for operations, transform the data
   <img src="images/5-DWH_Tech_Perspective.png" alt="DWH Tech perspective" width=60% height=60%>
 </figure>
 
-### ETL and Dimensional modeling
+### ETL and Dimensional Modeling
 
 3NF use lot of expensive joins and hard to explain to business users. While dimensional modeling such as star schema uses joins with dimensions which is good for OLAP(not for OLTP).
 
@@ -128,7 +128,7 @@ Example:
 
 **Exercise**: [Exploratory Data Analysis](exercises/1_Exploratory_Data_Analysis.ipynb) (Refer step 1 to step 3)
 
-### Dimensional modeling
+### Dimensional Modeling
 
 **Exercise**: [Dimensional Modeling](exercises/2_Dimensional_Modeling.ipynb) 
 

@@ -1,4 +1,4 @@
-# Data modeling
+# Data Modeling
 
 ## Overview
 
@@ -20,7 +20,7 @@
 - How to create NoSQL data models
   - NoSQL data modeling with Apache Cassandra
 
-## Introduction to Data modeling
+## Introduction to Data Modeling
 
 **Databases**: A [database](https://en.wikipedia.org/wiki/Database) is a structured repository or collection of data that is stored and retrieved electronically for use in applications. Data can be stored, updated, or deleted from a database.
 
@@ -68,7 +68,7 @@ Common questions:
 - **Starting early**: Begin prior to building out application, business logic and analytical models.
 - **iterative process**: It's an iterative process as new requirements and new daa are introduced.
 
-### Who does Data modeling
+### Who does Data Modeling
 
 Data modeling is an import skill for anyone involved in the process of using and analyzing data. including:
 
@@ -642,7 +642,7 @@ Data modeling in Apache Cassandra:
 
 <hr style="border:2px solid gray">
 
-## Project: Data modeling with Apache Cassandra
+## Project: Data Modeling with Apache Cassandra
 
 ### Requirement
 
@@ -657,4 +657,4 @@ In this project,
 - Apply concepts learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python.
 - Model your data by creating tables in Apache Cassandra to run queries.
 
-**Project Code**: [Data modeling with Apache Cassandra](project/data_modeling_project.ipynb)
+**Project Code**: [Data Modeling with Apache Cassandra](project/data_modeling_project.ipynb)
