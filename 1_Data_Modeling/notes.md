@@ -1,4 +1,4 @@
-# Data Modelling
+# Data modeling
 
 ## Overview
 
@@ -20,7 +20,7 @@
 - How to create NoSQL data models
   - NoSQL data modeling with Apache Cassandra
 
-## Introduction to Data Modelling
+## Introduction to Data modeling
 
 **Databases**: A [database](https://en.wikipedia.org/wiki/Database) is a structured repository or collection of data that is stored and retrieved electronically for use in applications. Data can be stored, updated, or deleted from a database.
 
@@ -34,9 +34,9 @@
 > ...an abstraction that organizes elements of data and how they will relate to each other
 
 So,
-> Data modelling is the processing of creating data models for an information system.
+> Data modeling is the processing of creating data models for an information system.
 
-The process of data modelling is to organize data into a database system to ensure that your data is persisted and easily usable by users in your organization.
+The process of data modeling is to organize data into a database system to ensure that your data is persisted and easily usable by users in your organization.
 
 It's a process to support business and user applications.
 
@@ -45,11 +45,11 @@ Steps:
 1. Gather Requirements:
    - From application team, business users and end users to understand that what data must be retained and served as a business or the end-users.
    - First we need to map out that how our data must be stored and persisted and how that data will related to each other.
-2. Conceptual Data Modelling
+2. Conceptual Data modeling
    - Entity mapping by hand or by using some tools.
-3. Logical Data Modelling
+3. Logical Data modeling
    - Here conceptual data models are mapped to logical models using tales, schemas and columns.
-4. Physical Data Modelling
+4. Physical Data modeling
    - Transform the logical data model to the DDL(Data Definition Language) to ale to create databases, tables and schemas.
 
 Common questions:
@@ -68,9 +68,9 @@ Common questions:
 - **Starting early**: Begin prior to building out application, business logic and analytical models.
 - **iterative process**: It's an iterative process as new requirements and new daa are introduced.
 
-### Who does Data Modelling
+### Who does Data modeling
 
-Data modelling is an import skill for anyone involved in the process of using and analyzing data. including:
+Data modeling is an import skill for anyone involved in the process of using and analyzing data. including:
 
 - Data Engineers
 - Data Scientists
@@ -80,7 +80,7 @@ Data modelling is an import skill for anyone involved in the process of using an
 
 ### Introduction to Relational Databases
 
-Relational and Non-relational databases do data modelling differently.
+Relational and Non-relational databases do data modeling differently.
 
 **Relational Model**
 This model organized data into one or more *tables(or relations)* of *columns(attributes)* and *rows(tuples)* with a unique key identifying each row.
@@ -240,7 +240,7 @@ In 1969 Edgar R. Codd proposed 12 rules of what makes a database management syst
 - **Flexibility in adding and altering tables**: Relational databases gives you flexibility to add tables, alter tables and to remove data.
 - **Data Integrity**: Data integrity is the backbone of using a relational database.
 - **Structured Query Language(SQL)**: A standard language can be used to access the data with a predefined language.
-- **Simplicity**: Data is systematically stored and modelled in tabular format.
+- **Simplicity**: Data is systematically stored and modeled in tabular format.
 - **Intuitive Organization**: The spreadsheet format is intuitive but intuitive to data modeling in relational databases.
 
 ### OLAP vs OLTP
@@ -569,7 +569,7 @@ A theorem in computer science that states:
 
 ### Denormalization in Apache Cassandra
 
-Data Modelling in Apache Cassandra:
+Data modeling in Apache Cassandra:
 
 - Denormalization is not just okay -- it's a must
 - Denormalization must be done for fast reads
@@ -632,7 +632,7 @@ Data Modelling in Apache Cassandra:
 
 ### WHERE Clause
 
-- Data Modelling in Apache Cassandra is query focused and that focus needs to on the **WHERE** clause.
+- Data modeling in Apache Cassandra is query focused and that focus needs to on the **WHERE** clause.
 - Failure to include a WHERE clause will result in an error.
 - The PARTITION KEY must be included in the query and any CLUSTERING COLUMNS can be used in the order they appear in your PRIMARY KEY.
 - It's recommended that one partition key be queried at a time for performance implications.
@@ -642,7 +642,7 @@ Data Modelling in Apache Cassandra:
 
 <hr style="border:2px solid gray">
 
-## Project: Data Modelling with Apache Cassandra
+## Project: Data modeling with Apache Cassandra
 
 ### Requirement
 
@@ -657,4 +657,4 @@ In this project,
 - Apply concepts learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python.
 - Model your data by creating tables in Apache Cassandra to run queries.
 
-**Project Code**: [Data modeling with Apache Cassandra](project/data_modelling_project.ipynb)
+**Project Code**: [Data modeling with Apache Cassandra](project/data_modeling_project.ipynb)
