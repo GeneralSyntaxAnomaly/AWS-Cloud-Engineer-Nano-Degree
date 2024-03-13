@@ -3,7 +3,7 @@ Resources and projects from AWS Cloud Engineer Nano Degree
 
 ## Projects
 
-### '[Data Modeling]'(https://github.com/GeneralSyntaxAnomaly/AWS-Cloud-Engineer-Nano-Degree/tree/main/1_Data_Modeling)
+### [Data Modeling](https://github.com/GeneralSyntaxAnomaly/AWS-Cloud-Engineer-Nano-Degree/tree/main/1_Data_Modeling)
 
 In this project,
 
